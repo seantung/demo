@@ -3,3 +3,7 @@ print("Hello")
 
 # 18:55
 print("world")
+
+
+# 第2版  19:35
+print("Version 2")
